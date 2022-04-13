@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJs](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
 
 ## Como executar
 
